@@ -10,7 +10,7 @@ One or two sentences on what this project asks and what it found. Replace this b
 | Name | GitHub username |
 |---|---|
 | Tyler Johnston | Tyler-Johnston-1 |
-| | |
+| Jacob Van Vleet|jacobvanvleet |
 | | |
 | | |
 
